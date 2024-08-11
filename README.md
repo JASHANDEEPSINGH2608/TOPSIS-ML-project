@@ -21,6 +21,6 @@ pip install TOPSIS-JASHANDEEP-102218023
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-) and result csv filename followed by .csv extension.
 
 ```sh
-topsis  "sample.csv" "1,1,1,1" "+,-,+,+" "result.csv"
+topsis  "102218023-data.csv" "1,1,1,1" "+,-,+,+" "result-102218023.csv"
 ```
 
